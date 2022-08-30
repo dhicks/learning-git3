@@ -1,6 +1,7 @@
 I am a file! I have some code! 
 I added a line
 moar
+THIS LINE HAS AN ERROR
 moar
 cats are cute and fuzzy
 I'm adding a change for K1
